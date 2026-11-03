@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="valid-vault-banner-crt" src="https://github.com/user-attachments/assets/3fca3597-df66-478d-93da-a9dd3576e002" />
+<img width="1500" height="500" alt="Valid Privacy, anti-cloud data security" src="assets/valid-privacy-banner.gif" />
 
 
 # Anti-cloud data security
